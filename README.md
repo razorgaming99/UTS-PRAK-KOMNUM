@@ -40,3 +40,12 @@ f(x) = x^4 - 5x^2 + 4
 \[
 f'(x) = 4x^3 - 10x
 \]
+
+
+## Tim Pengembang 
+  **Kelompok 1 UTS Praktikum Komputasi Numerik:**
+  - Abdi Dzil Ikram (2408107010024)
+  - Aulia Lutfi (2408107010033)
+  - Annisa Rahma Fathia (2408107010027)
+  - Dara Ramadhani (2408107010028)
+  - Putroe Fatimah Azzahra (2408107010002)
